@@ -10,7 +10,9 @@ Ejercicio backend Java para AlMundo
  En el log se veria algo como
  
  2018-08-25 12:40:00.402  INFO 7924 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+ 
 Operador1 esta libre y atendera la llamada ZceBvXDSgf durante 10 segundos
+
 LLamada finalizada Operador1 libre
 
  
